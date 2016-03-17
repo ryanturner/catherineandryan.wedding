@@ -24,6 +24,7 @@
 /* intro block */
 .app-block-intro {
   padding-top: 20px;
+  padding-bottom: 0;
 }
 .app-block-intro img {
   width: 80%;
